@@ -1,2 +1,7 @@
 .vagrant/
 *.retry
+**~
+**.iso
+**.tgz
+**.tar.gz
+*.retry
